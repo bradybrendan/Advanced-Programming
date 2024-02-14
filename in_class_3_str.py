@@ -35,7 +35,7 @@ class Stock:
 
     
     def plot_return_dist(self):
-        self.data["Return"].hist(bins=50, alpha=0.6)
+        self.data["Return"].hist(bins=20, alpha=0.6)
         plt.show()
         #plt.title("Instantaneous Return")
         pass
