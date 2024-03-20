@@ -1,3 +1,9 @@
+#""Name: Lina Botero and Brendan Brady
+#Library: Streamlit
+#URL: Link to library documentation
+#Description: This python file explores the capabilities of streamlit.
+#See tutorial for further description""
+
 import streamlit as st
 import numpy as np
 import pandas as pd
